@@ -13,5 +13,5 @@ total = 0
 for i in range(100):
     total = total + randDice()
 average = total/100
-round(average,2)
-print(average)
+
+print(round(average,2))
