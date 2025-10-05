@@ -1,0 +1,11 @@
+input total sales
+
+function calculate tax (input total sales)
+
+total sales * 0.05 = state sales tax
+total sales * 0.025 = county sales tax
+return string state sales tax + county sales tax + (string county sales tax + state sales ta)"
+
+print calculate tax
+
+
